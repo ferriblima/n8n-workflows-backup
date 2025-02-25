@@ -9,10 +9,10 @@ This repository contains workflows and configurations for **n8n** backup process
 2. [Setup](#setup)  
 3. [Uploading the JSON File](#uploading-the-json-file)  
 4. [Creating the Credentials](#creating-the-credentials)  
-5. [Adjusting Specific Nodes](#adjusting-specific-nodes)  
-6. [Credits](#credits)  
-7. [Server and SSL Setup](#server-and-ssl-setup)  
-8. [Potential Issues](#potential-issues)  
+5. [Adjusting Specific Nodes](#adjusting-specific-nodes)
+6. [Server and SSL Setup](#server-and-ssl-setup)
+7. [Credits](#credits)
+8. [Potential Issues](#potential-issues)
 9. [Useful Commands](#useful-commands)  
 
 ---
